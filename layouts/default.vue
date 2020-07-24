@@ -60,6 +60,11 @@
          <v-icon medium>home</v-icon>
       </v-btn>
      </nuxt-link>
+     <nuxt-link to = "login">
+      <v-btn icon>
+         <v-icon medium>face</v-icon>
+      </v-btn>
+     </nuxt-link>
       <v-btn icon>
         <v-icon>mdi-magnify</v-icon>
       </v-btn>
